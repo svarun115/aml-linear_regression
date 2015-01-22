@@ -1,0 +1,77 @@
+Brand,Product,cores,Clock,Size,Internal,RAM,MP,Price
+Samsung,Galaxy Note II N7100,4,1.6,5.5,64,2,8,27890
+Samsung,Galaxy Note Edge,4,2.7,5.6,64,3,16,64899
+Samsung,Galaxy S5,4,2.5,5.1,32,2,16,32999
+Samsung,Galaxy S Duos 2 S7582,2,1.2,4,4,0.75,5,10499
+Samsung,Galaxy A5 Duos,4,1.2,5,16,2,13,25000
+Samsung,Galaxy S4 zoom,2,1.5,4.3,8,1.5,16,22989
+Samsung,Galaxy A3 Duos,4,1.2,4.5,16,1,8,18499
+Samsung,Galaxy Tab 3 10.1 P5210,2,1.6,10.1,32,1,3.15,35348
+Samsung,I9070 Galaxy S Advance,2,1,4,16,0.75,5,22900
+Samsung,Galaxy Core Prime,4,1.2,4.5,8,1,5,9292
+Samsung,Exhibit 4G,1,1,3.5,1,0.5,3.15,11999
+Samsung,Galaxy Note 10.1 N8000,4,1.4,10.1,64,2,5,37300
+Samsung,Galaxy Tab Active,4,1.2,8,16,1.5,3.15,24990
+Samsung,Galaxy Camera GC100,4,1.4,4.8,4,1,16.3,22900
+Samsung,Omnia M S7530,1,1,4,8,0.375,5,15700
+Samsung,Galaxy Nexus I9250,2,1.2,4.65,16,1,5,17990
+Samsung,I8530 Galaxy Beam,2,1,4,8,0.75,5,19900
+Samsung,Galaxy Star 2,1,1,3.5,4,0.5,2,4443
+Samsung,Galaxy Tab 3 8.0,2,1.5,8,32,1.5,5,24000
+Samsung,Galaxy Tab S 10.5 LTE,4,2.3,10.5,32,3,8,38900
+Samsung,Galaxy Nexus I9250M,2,1.2,4.65,1,1,5,25000
+Samsung,Galaxy S5 Plus,4,2.5,5.1,32,2,16,32999
+Samsung,Galaxy Grand Neo,4,1.2,5.01,16,1,5,11499
+Samsung,Galaxy Avant,4,1.2,4.5,16,1.5,5,12999
+Samsung,I9103 Galaxy R,2,1,4.2,8,1,5,6666
+Samsung,Galaxy Grand 2,4,1.2,5.25,8,1.5,8,16499
+Samsung,I9190 Galaxy S4 mini,2,1.7,4.3,8,1.5,8,14777
+Samsung,Galaxy S Duos 3,2,1.2,4,4,0.5,5,6999
+Samsung,Galaxy Young 2,1,1,3.5,4,0.5,3.15,8599
+Samsung,Galaxy Note 3,4,2.3,5.7,64,3,13,23299
+Samsung,Galaxy Note 4,4,2.7,5.7,32,3,16,54999
+Samsung,Google Nexus 10 P8110,2,1.7,10.1,32,2,5,33720
+Samsung,Galaxy Grand I9082,2,1.2,5,8,1,8,16999
+Samsung,Galaxy Tab Pro 12.2,4,1.9,12.2,64,3,8,58900
+Sony,Xperia S,2,1.5,4.3,32,1,12,22625
+Sony,Xperia P,2,1,4,16,1,8,15999
+Sony,Xperia E,1,1,3.5,4,0.5,3.15,6000
+Sony,Xperia ZL,4,1.5,5,16,2,13,26500
+Sony,Xperia E dual,1,1,3.5,4,0.5,3.15,7000
+Sony,Xperia Z1 Compact,4,2.2,4.3,16,2,20.7,25000
+Sony,Xperia C670X,4,1.8,4.8,32,2,13.1,15000
+Sony,Xperia M2,4,1.2,4.8,8,1,8,15000
+Sony,Xperia C,4,1.2,5,4,1,8,14000
+Sony,Xperia sola,2,1,3.7,8,0.5,5,13000
+Sony,Xperia V,2,1.5,4.3,8,1,13,6800
+Sony,Xperia M2 dual,4,1.2,4.8,8,1,8,14500
+Sony,Xperia J,1,1,4,4,0.5,5,12000
+Sony,Xperia ZR,4,1.5,4.55,8,2,13.1,25500
+Sony,Xperia T2 Ultra dual,4,1.4,6,8,1,13,22000
+Sony,Xperia M,2,1,4,4,1,5,10000
+Sony,Xperia L,2,1,4.3,8,1,8,15000
+Sony,Xperia U,2,1,3.5,8,0.5,5,13500
+Sony,Xperia Z1s,4,2.2,5,32,2,20.7,26000
+Sony,Xperia SP,2,1.7,4.6,8,1,8,14500
+HTC,Desire 601,2,1.4,4.5,8,1,5,20000
+HTC,Desire SV,2,1,4.3,4,0.75,8,16500
+HTC,Desire 700 dual sim,4,1.2,5,8,1,8,22000
+HTC,One (M8) CDMA,4,2.3,5,32,2,4,45000
+HTC,Desire 516 dual sim,4,1.2,5,4,1,5,11200
+HTC,Desire 600 dual sim,4,1.2,4.5,8,1,8,20000
+HTC,Desire 816,4,1.6,5.5,8,1.5,13,29000
+HTC,Butterfly,4,1.5,5,16,2,8,39000
+HTC,One Max,4,1.7,5.9,32,2,4,35000
+HTC,Desire Eye,4,2.3,5.2,16,2,13,38000
+HTC,Desire 616 dual sim,8,1.4,5,4,1,8,12700
+HTC,Windows Phone 8S,2,1,4,4,0.5,5,15000
+Motorola,Moto Maxx,4,2.7,5.2,64,3,21,46000
+Motorola,Moto E,2,1.2,4.3,4,1,5,6500
+Motorola,Moto G,4,1.2,4.5,16,1,5,13000
+Motorola,Moto X,2,1.7,4.7,64,2,10,32500
+Motorola,Moto X (2014),4,2.5,5.2,32,2,13,30000
+Microsoft,Lumia 535 Dual SIM,4,1.2,5,8,1,5,8300
+Nokia,Lumia 830,4,1.2,5,16,1,10,27000
+Nokia,Lumia 930,4,2.2,5,32,2,20,37500
+Nokia,Lumia 730 Dual SIM,4,1.2,4.7,8,1,6.7,13900
+Nokia,Lumia 630 Dual SIM,4,1.2,4.5,8,0.5,5,6500
