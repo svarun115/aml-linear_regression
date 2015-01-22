@@ -1,6 +1,7 @@
 import csv
 import numpy as np
 import math
+
 data=[]
 with open('Mobile_Data.csv','rb') as f:
 	data=f.readlines()
@@ -34,20 +35,26 @@ y_test=np.matrix(y_test)
 x_dag=np.linalg.pinv(x_train)
 
 w=x_dag*np.transpose(y_train)
-print "The parameter matrix obtained is:",w
+#print "The parameter matrix obtained is:",w
 
 Y=(x_test*w).transpose()
 
 Y=Y.tolist()
 y_test=y_test.tolist()
 
+print "Actual output:\n",y_test,"\n\n"
+print "Expected output:\n",Y,"\n\n"
 s=0
+error=[]
 #calculating root mean square error
 for i in range(len(Y[0])):
-	s+=((Y[0][i]-y_test[0][i])/y_test[0][i])**2
+	error.append(((Y[0][i]-y_test[0][i])/y_test[0][i])**2)
 
-rms_error=math.sqrt(s)/(len(Y[0]))
 
-print "The root mean square error obtained is :", rms_error*100,"%"
+for term in error:
+	s+=term
+ 
+rms_error=(math.sqrt(s/len(error)))*100
+print "The root mean square error obtained is :",rms_error,"%"
 
 
