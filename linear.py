@@ -1,5 +1,6 @@
 import csv
 import numpy as np
+import math
 data=[]
 with open('Mobile_Data.csv','rb') as f:
 	data=f.readlines()
@@ -45,7 +46,7 @@ s=0
 for i in range(len(Y[0])):
 	s+=((Y[0][i]-y_test[0][i])/y_test[0][i])**2
 
-rms_error=s/(len(Y[0]))
+rms_error=math.sqrt(s)/(len(Y[0]))
 
 print "The root mean square error obtained is :", rms_error*100,"%"
 
